@@ -1,8 +1,3 @@
-#ifndef MAIN_H
-#define MAIN_H
-
-#include <stdio.h>
-
 int _isupper(int c);
 int _isdigit(int c);
 int mul(int a, int b);
@@ -17,5 +12,3 @@ void print_triangle(int size);
 void print_number(int n);
 void _putchar(char c);
 int main(void)
-
-#endif /* MAIN_H */
