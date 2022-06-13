@@ -1,24 +1,23 @@
-#include "main.h"
+#include "holberton.h"
 #include <stdio.h>
-
 /**
- *  * print_array- prints n elements of an array of integers
- *   * @a:input
- *    *@n:input
- *     * Return: Always 0.
-*/
-void print_array(int *a, int n)
+ * _strcpy - copies the string pointed to by src,
+ * including the terminating null byte, to the
+ * buffer pointed to by dest.
+ * @dest: destination.
+ * @src: source.
+ * Return: the pointer to dest.
+ */
+char *_strcpy(char *dest, char *src)
 {
-	int i;
+	int count = 0;
 
-	for (i = 0; i < n; i++)
+	while (count >= 0)
 	{
-		printf("%d", a[i]);
-		if (i < n - 1)
-		{
-			printf(",");
-			printf(" ");
-		}
+		*(dest + count) = *(src + count);
+		if (*(src + count) == '\0')
+			break;
+		count++;
 	}
-	printf("\n");
+	return (dest);
 }
