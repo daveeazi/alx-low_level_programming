@@ -1,7 +1,7 @@
 #include "stdio.h"
 
 /**
- * string_toupper - a function that changes all lowercase 
+ * string_toupper - a function that changes all lowercase
  * letters of a string to uppercase
  * @c: input string
  * Return: capitialized string
