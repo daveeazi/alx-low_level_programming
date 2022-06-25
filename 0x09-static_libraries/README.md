@@ -1,6 +1,6 @@
-C - Static libraries
+# C - Static libraries
 
-# General
+## General
 
 * What is a static library, how does it work, how to create one, and how to use it
 
