@@ -1,9 +1,9 @@
-My first program on C
+# My first program on C
 
-# Low-Level Programming - Data Structures, Algorithms, Linux/Unix System Programming
+## Low-Level Programming - Data Structures, Algorithms, Linux/Unix System Programming
 
 This repository contains programs written for the low-level programming and
-algorithm track at the alx-SoftwareEngineering program facilitated by ALX. I am learning about data
+algorithm track at the Alx-Software Engineering program facilitated by ALX. I am learning about data
 structures, algorithms, and other low-level programming concepts while
 working in the C language. I update this repo with my learning progresses with hands-on projects as listed below:
 
@@ -20,17 +20,8 @@ working in the C language. I update this repo with my learning progresses with h
 * [0x0A. C - argc, argv](./0x0A-argc_argv)
 * [0x0B. C - malloc, free](./0x0B-malloc_free)
 * [0x0C. C - More malloc, free](./0x0C-more_malloc_free)
-* [0x0D. C - Preprocessor](./0x0D-preprocessor)
-* [0x0E. C - Structures, typedef](./0x0E-structures_typedef)
-* [0x0F. C - Function pointers](./0x0F-function_pointers)
-* [0x10. C - Variadic functions](./0x10-variadic_functions)
-* [0x11. C - printf](https://github.com/Faitholo/printf)
-* [0x12. C - Singly linked lists](./0x12-singly_linked_lists)
-* [0x13-more_singly_linked_lists](./0x13-more_singly_linked_lists)
-* [0x14-bit_manipulation](0x14-bit_manipulation)
-* [0x15-file_io](0x15-file_io)
 
-A great Software Engineer in making
+`A great Software Engineer in making`
 
 ## WARNING!!
 - This repo is done as personal projects!!! 
