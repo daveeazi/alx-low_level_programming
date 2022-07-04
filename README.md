@@ -20,10 +20,8 @@ working in the C language. I update this repo with my learning progresses with h
 * [0x0A. C - argc, argv](./0x0A-argc_argv)
 * [0x0B. C - malloc, free](./0x0B-malloc_free)
 * [0x0C. C - More malloc, free](./0x0C-more_malloc_free)
-<<<<<<< HEAD
 * [0x0D-preprocessor](./0x0D-preprocessor)
-=======
->>>>>>> 6ea7036b7363202a94412c2986467b2f5e87c199
+* [0x0E. C - Structures, typedef](./0x0E-structures_typedef)
 
 `A great Software Engineer in making`
 
