@@ -2,7 +2,7 @@
 
 ## Learning Objectives
 
-* (Understanding C program Compilation Process)[https://alx-intranet.hbtn.io/rltoken/73Xp4zJlc-orfeEzmlYVDg]
+(Understanding C program Compilation Process)[https://alx-intranet.hbtn.io/rltoken/73Xp4zJlc-orfeEzmlYVDg]
 * (Object-like Macros)[https://alx-intranet.hbtn.io/rltoken/kaqIw352MSJ8xoi1xU09ZA]
 * (Macro Arguments)[https://alx-intranet.hbtn.io/rltoken/wcQZzunlgjepxExZFc2ORQ]
 * (Pre Processor Directives in C)[https://alx-intranet.hbtn.io/rltoken/S4zfCHzg82fUAxdt8_SaZQ]
@@ -16,4 +16,3 @@
 * What are macros and how to use them
 * What are the most common predefined macros
 * How to include guard your header files
-
