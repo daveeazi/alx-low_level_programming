@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include "lists.h"
 
 void __attribute__((construct)) hare(void);
 
