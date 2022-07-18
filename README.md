@@ -25,7 +25,7 @@ working in the C language. I update this repo with my learning progresses with h
 * [0x0F. C - Function pointers](./0x0F-function_pointers)
 * [0x10. C - Variadic functions](./0x10-variadic_functions)
 * [0x12. C - Singly Linked Lists](./0x12-singly_linked_lists)
-* [0x13. C - More singly linked lists](/.0x13-more_singly_linked_lists)
+* [0x13. C - More singly linked lists](./0x13-more_singly_linked_lists)
 
 `A great Software Engineer in making`
 
