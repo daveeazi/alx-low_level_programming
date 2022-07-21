@@ -14,12 +14,17 @@ Project done during the **Full Stack Software Engeering program at ALX**.
 # Commands and functions used:
 ## The bitwise operators:
 
-XOR OPERATOR - ^,
-OR OPERATOR - |,
-AND OPERATOR - &,
-LEFT SHIFT OPERATOR - <<,
-RIGHT SHIFT OPERATOR - >> 
-NOT OPERATOR - ~
+**XOR OPERATOR - ^,**
+
+**OR OPERATOR - |,**
+
+**AND OPERATOR - &,**
+
+**LEFT SHIFT OPERATOR - <<,**
+
+**RIGHT SHIFT OPERATOR - >>,**
+
+**NOT OPERATOR - ~.**
 
 # Files
 
