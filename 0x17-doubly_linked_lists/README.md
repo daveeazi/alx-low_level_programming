@@ -1,12 +1,13 @@
 # 0x16. C - Doubly linked lists
+
 ## About
 An introductory project on:
 - Doubly linked lists
-## Requirements
-- Ubuntu 14.04
-- gcc 4.8.4
+
 ## File Descriptions
+
 ### Mandatory
+
 **[lists.h](lists.h)** - header file containing all function prototypes and the definition of type `dlistint_t`.
 
 **[0-print_dlistint.c](0-print_dlistint.c)** - function that prints all the elements of a `dlistint_t` list.
@@ -28,6 +29,7 @@ An introductory project on:
 **[8-delete_dnodeint.c](8-delete_dnodeint.c)** - function that deletes a node at a given index of a `dlistint_t` linked list.
 
 ### Advanced
+
 **[100-password](100-password)** - the found password of [crackme4](https://github.com/holbertonschool/0x16.c)
 
 **[102-result](102-result)** - the largest palindrome made from the product of two 3-digit numbers.
