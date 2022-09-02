@@ -1,8 +1,9 @@
-#Even more pointers, arrays and strings
+# Even more pointers, arrays and strings
 
-##Learning Objectives
+## Learning Objectives
 
-###General
+### General
+
 1. What are pointers to pointers and how to use them
 
 2. What are multidimensional arrays and how to use them
@@ -17,6 +18,6 @@ Note that in the last task 101-crackme_password
 
 >The sudo apt install libssl-dev is used
 
-And the ":set binary noeol"
+>And the ":set binary noeol"
 
-Then ":wq"
+>Then ":wq"
