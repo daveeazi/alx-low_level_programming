@@ -6,6 +6,13 @@ An introductory project on:
 
 ## File Descriptions
 
+<details><summary>NOTE</summary>
+
+`NOTE: For the Advanced task 102 result (palindrome) kindly add set binary noeol before saving file in vim`
+
+</details>
+
+
 ### Mandatory
 
 **[lists.h](lists.h)** - header file containing all function prototypes and the definition of type `dlistint_t`.
