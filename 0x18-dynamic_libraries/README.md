@@ -8,6 +8,7 @@ An introductory project on:
 - Dynamic libraries
 - `$LD_LIBRARY_PATH` environment variable
 - Static vs shared libraries
+- Basic usage nm, ldd, ldconfig
 
 ## Function Prototypes:
 The following files are scripts written for the projects written in C:
