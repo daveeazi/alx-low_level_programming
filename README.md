@@ -32,6 +32,7 @@ working in the C language. I update this repo with my learning progresses with h
 - [0x18. C - Dynamic libraries](./0x18-dynamic_libraries)
 - [0x1A. C - Hash tables](./0x1A-hash_tables)
 - [0x1C. C - Makefiles](./0x1C-makefiles)
+- [0x1E. C - Search Algorithms](./0x1E-search_algorithms)
 
 `A great Software Engineer in making`
 
